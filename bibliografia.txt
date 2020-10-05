@@ -1,2 +1,3 @@
 -Chacon, S. and Straub, B. Pro Git. Apress.
--[A  [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[fjghodshgfs[D[D[D[D[D[D[D[D[D          [C[C[C[dajkhsd[Dd[D[D[D     [D[D[D[D[D[D[D[Dkajsghdfpiaghfdpishdfpi[D[D[D[D[D[D[2~  [D[D[D[D[D[2~   [D[D[D[D[D[Dd  [C[D[D[D[D[D[D[D[2~  [C[C[C[C[C ChaLoeliger, J. and McCullough, M. Version control with Git. 0'Reilly.
+-Loeliger, J. and McCullough, M. Version control with Git. 0'Reilly.
+-Hodson, R. Ry's Git Tutorial.Smashwords (2014).
